@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sam.kwarteng@gmail.com",
+    "longName": "Redmond Pie",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Redmond Pie",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "115e72ec-2dee-4d50-9903-2bff73f46c48",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
